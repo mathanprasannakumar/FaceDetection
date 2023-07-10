@@ -31,7 +31,7 @@
       </ul>
     </ul>
   </ul>
-    
+</ul>  
 <h1>2) Model Structure</h1>
 <ul>
   <li>Total params: 16,826,181</li>
