@@ -8,7 +8,7 @@
 <p>Check out here for <a href= "https://github.com/wkentaro/labelme"><b>label me</b></p>
   <li>After annotating, Using <a href="https://github.com/albumentations-team/albumentations"><b>albumentations tool</b></a> applied transormation to each image</li>
   <li>Best thing about albumentations is if you resize the image after annotation using albumentations it will resize the bbox or annotations as well</li>
-  <p>File structure</p>
+  <p><b>File structure</b></p>
   <ul>
     <li>/root</li>
     <ul>
@@ -31,9 +31,8 @@
       </ul>
     </ul>
   </ul>
+    
 <h1>2) Model Structure</h1>
-![download](https://github.com/mathanprasannakumar/FaceDetection/assets/106004161/cf308cdb-1732-4eed-ac5f-67d955d24285)
-
 <ul>
   <li>Total params: 16,826,181</li>
   <li>Trainable params: 16,826,181</li>
