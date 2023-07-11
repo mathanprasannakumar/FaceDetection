@@ -31,7 +31,16 @@
       </ul>
     </ul>
   </ul>
-</ul>  
+</ul>
+  <li>Train - 20,000 images</li>
+  <li>Test - 5000 images</li>
+  <li>val - 5000 images</li>
+</ul>
+<ul>
+  <li>For the data pipeline , shuffle size in buffer - size of images in each category</li>
+  <li>batch size : 16</li>
+  <li>prefetch: 8 </li>
+</ul>
 <h1>2) Model Structure</h1>
 <ul>
   <li>Total params: 16,826,181</li>
