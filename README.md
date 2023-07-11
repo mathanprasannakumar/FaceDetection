@@ -37,7 +37,7 @@
   <li>val - 5000 images</li>
 </ul>
 <ul>
-  <li>For the data pipeline , shuffle size in buffer - size of images in each category</li>
+  <li>For the data pipeline , shuffle size in buffer = size of images in each category</li>
   <li>batch size : 16</li>
   <li>prefetch: 8 </li>
 </ul>
